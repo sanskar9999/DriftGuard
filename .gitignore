@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Data files (we don't want to upload the huge dataset to GitHub)
+*.parquet
+*.vital
