@@ -1,0 +1,11 @@
+pandas
+numpy
+pyarrow
+matplotlib
+seaborn
+tqdm
+lightgbm
+scikit-learn
+imblearn
+tensorflow
+vitaldb
