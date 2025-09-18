@@ -30,7 +30,7 @@ Our key insight was to pivot to a **data-centric approach**. The solution was no
 
 Our most important discovery came from visualizing the raw data. The primary driver of the BIS score is the administration of anesthetic drugs (like Propofol). The other vital signs (Heart Rate, Blood Pressure) are the context—they show how the patient's body is responding to the combined stress of the surgery and the drugs.
 
-<img width="1902" height="834" alt="image" src="https://github.com/user-attachments/assets/31aaad0e-f971-45d5-90b4-d9d609698f76" />
+<img width="1790" height="790" alt="image" src="https://github.com/user-attachments/assets/89b178df-0766-4c59-a9a8-6a591053b66f" />
 
 *Visualization for Patient 4755, clearly showing the relationship between Propofol infusion (orange), the body's stress response (green/purple), and the resulting BIS score (blue).*
 
