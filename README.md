@@ -3,6 +3,7 @@
 [![Status](https://img.shields.io/badge/Status-Proof--of--Concept-orange)](https://github.com/your-username/DriftGuard)
 
 DriftGuard is a research project aimed at developing a machine learning model to predict changes in a patient's anesthetic depth during surgery. By analyzing real-time, non-invasive vital signs, the system's goal is to provide an early warning to anesthesiologists, helping them prevent the patient from becoming too deeply anesthetized or waking up prematurely.
+<img width="1886" height="999" alt="image" src="https://github.com/user-attachments/assets/78848b3c-7e30-4b40-b50f-d47bc3e95099" />
 
 ## The Problem: The Anesthetic Balancing Act
 
@@ -29,7 +30,8 @@ Our key insight was to pivot to a **data-centric approach**. The solution was no
 
 Our most important discovery came from visualizing the raw data. The primary driver of the BIS score is the administration of anesthetic drugs (like Propofol). The other vital signs (Heart Rate, Blood Pressure) are the context—they show how the patient's body is responding to the combined stress of the surgery and the drugs.
 
-![Patient Timeline](https://i.imgur.com/your-image-link.png)
+<img width="1902" height="834" alt="image" src="https://github.com/user-attachments/assets/31aaad0e-f971-45d5-90b4-d9d609698f76" />
+
 *Visualization for Patient 4755, clearly showing the relationship between Propofol infusion (orange), the body's stress response (green/purple), and the resulting BIS score (blue).*
 
 ## The Final Approach
