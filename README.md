@@ -1,6 +1,8 @@
 # DriftGuard: Anesthetic Depth Early Warning System
 
-[![Status](https://img.shields.io/badge/Status-Proof--of--Concept-orange)](https://github.com/your-username/DriftGuard)
+[![License: AGPL v3 NC](https://img.shields.io/badge/License-AGPL%20v3--NC-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![Docs License: CC BY-NC-SA 4.0](https://img.shields.io/badge/Docs%20License-CC%20BY--NC--SA%204.0-green.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![Status: Proof of Concept](https://img.shields.io/badge/Status-Proof%20of%20Concept-orange.svg)](#)
 
 DriftGuard is a research project aimed at developing a machine learning model to predict changes in a patient's anesthetic depth during surgery. By analyzing real-time, non-invasive vital signs, the system's goal is to provide an early warning to anesthesiologists, helping them prevent the patient from becoming too deeply anesthetized or waking up prematurely.
 <img width="1886" height="999" alt="image" src="https://github.com/user-attachments/assets/78848b3c-7e30-4b40-b50f-d47bc3e95099" />
