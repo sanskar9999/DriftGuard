@@ -98,12 +98,12 @@ The next steps are to:
 This project has a dual-license setup:
 
 Code: Licensed under AGPL-3.0 (Non-Commercial).
-→ Free to use, modify, and share for academic and research purposes only.
-→ Commercial use (e.g., clinical deployment, startup products, SaaS) requires prior written permission.
+-    Free to use, modify, and share for academic and research purposes only.
+-    Commercial use (e.g., clinical deployment, startup products, SaaS) requires prior written permission.
 
 Documentation & Research Materials: Licensed under CC BY-NC-SA 4.0.
-→ Free to read, share, and build upon for non-commercial purposes, with attribution.
-→ Derivatives must carry the same license.
+-    Free to read, share, and build upon for non-commercial purposes, with attribution.
+-    Derivatives must carry the same license.
 
 
 For commercial licensing or collaborations, please contact: verma.sanskar@gmail.com
